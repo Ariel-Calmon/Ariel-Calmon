@@ -7,7 +7,6 @@
 - 📫 Para entrar em contato comigo pode mandar um oi para mim no meu Likedin
 - 💻 (Linkedin: www.linkedin.com/in/ariel-calmon-costa-barros-8859b0174)
 - ⚡ Um pouco mais sobre mim: Adoro games, filmes e animes.
-- 
 </Português Brasil>
 
 <English>
@@ -18,6 +17,5 @@
 - 💞️ I hope to be able to impact many people with my code
 - 📫 To get in touch with me, you can say hi to me on my Likedin
 - 💻 (Linkedin: www.linkedin.com/in/ariel-calmon-costa-barros-8859b0174)
-- ⚡ A little more about me: I love games, films and anime
-  
+- ⚡ A little more about me: I love games, films and animes.
 </English>
